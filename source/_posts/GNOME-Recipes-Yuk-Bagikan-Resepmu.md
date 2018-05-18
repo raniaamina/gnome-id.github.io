@@ -8,7 +8,7 @@ tags:
 categories: acara
 ---
 
-{% asset_img gnome-recipe-competition-poster.png %}
+![Poster GNOME Recipes](https://raw.githubusercontent.com/gnome-id/poster/master/gnome-recipe-poster.png)
 
 ***
 
